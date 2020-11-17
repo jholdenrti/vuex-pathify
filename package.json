@@ -2,9 +2,9 @@
   "name": "vuex-pathify",
   "version": "1.4.1",
   "description": "Ridiculously simple Vuex setup + wiring",
-  "main": "dist/vuex-pathify.js",
-  "module": "dist/vuex-pathify.esm.js",
-  "jsnext:main": "dist/vuex-pathify.esm.js",
+  "main": "src/main.js",
+  "module": "src/main.js",
+  "jsnext:main": "src/main.js",
   "typings": "types/index.d.ts",
   "files": [
     "dist/*",
